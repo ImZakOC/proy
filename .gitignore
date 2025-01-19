@@ -1,0 +1,22 @@
+# Dependencias de Node.js
+node_modules/
+
+# Archivos de construcción o distribución (si los generas)
+build/
+dist/
+
+# Archivos de configuración locales
+.env
+
+# Logs y depuración
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Configuración del editor/IDE
+.vscode/
+.idea/
+
+# Sistemas operativos
+.DS_Store  # macOS
+Thumbs.db  # Windows
